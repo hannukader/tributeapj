@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css?family=Anton');
+@import url("//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css");
+body{
+}
+
+h1{
+      position:relative;
+      font: 70px 'Anton', sans-serif;
+      color:#3A96D8;
+padding-right:50px;
+
+  margin-top:30px;
+}
+h2{
+  font: 30px 'Anton', sans-serif;
+  margin-left:200px;
+  margin-right:200px;
+
+}
+.first
+{
+    padding-left: 35px;
+  height:100px;
+  width:300px;
+}
+.scnd{
+  height:300px;
+  width:300px;
+  
+}
+.jumbotron{
+  background-color:#3A96D8;
+  color:#fff;
+}
+h3{
+  margin-left:100px;
+  margin-right:50px;
+  padding-left:50px;
+  font:30px Arial;
+  font-kerning:auto;
+  font-weight: bold;
+}
+ul
+{
+  
+  padding-top:30px;
+  margin-left:20px;
+  
+}
+.glyphicon{
+  font-size:110px;
+}
+li
+{
+  margin-bottom:80px;
+ 
+}
+hr
+{
+  size:20;
+}
+li h4
+{
+  margin-left:110px;
+  margin-top:-90px;
+  margin-right:180px;
+  padding-right:100px;
+}
+p{
+  font-size:20px;
+  margin-left:100px;
+  font-style:italic;
+}
+.last{
+  width:400px;
+  height:300px;
+}
+ .bg-4 { 
+      background-color: #3A96D8; /* Black Gray */
+      color: #fff;
+   
+  }
+a,a:hover{
+  color:#fff;
+  text-decoration:none;
+}
